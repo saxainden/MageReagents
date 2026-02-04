@@ -1,4 +1,4 @@
-# Broker_MageReagents
+##MageReagents
 WoW TBC Anniversary addon to show mage reagents in a small, moveable window(Left Shift and drag to move).
 
 
