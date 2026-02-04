@@ -1,5 +1,5 @@
 # Broker_MageReagents
-WoW TBC Anniversary addon to show mage reagents in a broker window.
+WoW TBC Anniversary addon to show mage reagents in a small, moveable window(Left Shift and drag to move).
 
 
-This addon requires a broker display like TitanBar, ChocolateBar, or Bazooka.
+This addon will also display in a broker display like TitanBar, ChocolateBar, or Bazooka.
